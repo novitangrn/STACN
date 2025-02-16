@@ -178,6 +178,9 @@
         <mxCell id="HtEW1fYLS7kj6EowUiSw-134" value="&lt;font&gt;Output : Final Prediction (Close)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="HtEW1fYLS7kj6EowUiSw-131">
           <mxGeometry y="70" width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HtEW1fYLS7kj6EowUiSw-136" value="Flowchart Pembuatan Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163" y="860" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
