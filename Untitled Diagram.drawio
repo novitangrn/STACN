@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1583" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -514,6 +514,62 @@
         </mxCell>
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-47" value="Korpus Judul&amp;nbsp;&lt;div&gt;Berita Finansial&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="940" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-50" target="FoguGvjD7zDBd7Q_A-vQ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-50" target="FoguGvjD7zDBd7Q_A-vQ-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1290" />
+              <mxPoint x="990" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-50" value="&lt;i&gt;Pre-processing&lt;/i&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="854.5" y="1270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-52" target="FoguGvjD7zDBd7Q_A-vQ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-52" value="&lt;i&gt;Preprocessing&lt;/i&gt; Data Numerik" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1015" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-54" target="FoguGvjD7zDBd7Q_A-vQ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-54" value="&lt;i&gt;Preprocessing&lt;/i&gt;&amp;nbsp;&lt;div&gt;Data Teks&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1004.5" y="1340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-56" target="FoguGvjD7zDBd7Q_A-vQ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-56" value="Standarisasi&amp;nbsp;&lt;div&gt;Tipe Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1153.5" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-58" target="FoguGvjD7zDBd7Q_A-vQ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-58" value="Terjemahkan ke bahasa Inggris" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1129" y="1340" width="105.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-59" value="Normalisasi&lt;div&gt;&lt;i&gt;Min-Max Scaler&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1292" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-61" target="FoguGvjD7zDBd7Q_A-vQ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-61" value="&lt;i&gt;Fine-Tuning &lt;/i&gt;Model&lt;i&gt; &lt;/i&gt;FinBERT" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1264.5" y="1340" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-63" target="FoguGvjD7zDBd7Q_A-vQ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-63" value="&lt;i&gt;Word Embedding&lt;/i&gt; dengan FinBERT" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1266.75" y="1409" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-64" value="Membuat&lt;i&gt; Thought Vector &lt;/i&gt;dengan&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;div&gt;&lt;i&gt;Sequence to Sequence Autoencoder&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1409" width="221" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
