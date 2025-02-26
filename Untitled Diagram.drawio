@@ -485,6 +485,36 @@
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-25" value="&lt;font&gt;Pelatihan&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Model&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;Skema&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Ablation&lt;/i&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1324.5" y="670" width="179" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-38" value="Flowchart Akusisi Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="810" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-41" target="FoguGvjD7zDBd7Q_A-vQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-41" target="FoguGvjD7zDBd7Q_A-vQ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-41" value="Akusisi Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-43" target="FoguGvjD7zDBd7Q_A-vQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-43" value="Data Numerik" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-45" target="FoguGvjD7zDBd7Q_A-vQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-45" value="Data Teks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-46" value="Data Historikal Indeks&amp;nbsp;&lt;div&gt;Saham Sektor Energi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="860" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-47" value="Korpus Judul Berita Finansial" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="940" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
