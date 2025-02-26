@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1961" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -501,19 +501,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-43" value="Data Numerik" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="860" width="100" height="40" as="geometry" />
+          <mxGeometry x="1010" y="850" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FoguGvjD7zDBd7Q_A-vQ-45" target="FoguGvjD7zDBd7Q_A-vQ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-45" value="Data Teks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="940" width="100" height="40" as="geometry" />
+          <mxGeometry x="1010" y="940" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-46" value="Data Historikal Indeks&amp;nbsp;&lt;div&gt;Saham Sektor Energi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="860" width="180" height="40" as="geometry" />
+        <mxCell id="FoguGvjD7zDBd7Q_A-vQ-46" value="Data Historikal Indeks&amp;nbsp;&lt;div&gt;Saham Sektor A s/d Sektor K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="850" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FoguGvjD7zDBd7Q_A-vQ-47" value="Korpus Judul Berita Finansial" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="940" width="180" height="40" as="geometry" />
+          <mxGeometry x="1140" y="940" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
